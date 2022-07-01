@@ -19,3 +19,6 @@ pandas
 pytest
 tox
 flake8
+django
+tox
+joblib
