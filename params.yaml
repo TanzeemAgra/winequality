@@ -1,5 +1,5 @@
 base:
-  project: winequality-project
+  project: winequality-project-demo
   random_state: 42
   target_col: quality
 
