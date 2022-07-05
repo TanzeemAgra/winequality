@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/1c077609b0ee45ab8810ec768298db68/artifacts
+end_time: 1656767452403
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 1c077609b0ee45ab8810ec768298db68
+run_uuid: 1c077609b0ee45ab8810ec768298db68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1656767452278
+status: 4
+tags: []
+user_id: dell
